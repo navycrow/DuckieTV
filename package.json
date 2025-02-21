@@ -14,7 +14,7 @@
     "utorrent"
   ],
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.6.1",
     "grunt-angular-architecture-graph": "^0.2.5",
     "grunt-cli": "^0.1.13",
     "grunt-graphviz": "^0.1.0",
